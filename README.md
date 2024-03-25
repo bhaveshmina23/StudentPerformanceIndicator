@@ -1,4 +1,4 @@
-#####Student Performance Indicator
+Student Performance Indicator
 
 ## Life cycle of Project
 
